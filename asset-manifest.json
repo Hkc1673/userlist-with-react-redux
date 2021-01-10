@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/css/main.6079a06b.chunk.css",
+    "main.js": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/js/main.0abf03f3.chunk.js",
+    "main.js.map": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/js/main.0abf03f3.chunk.js.map",
+    "runtime-main.js": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/js/runtime-main.e6e80150.js",
+    "runtime-main.js.map": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/js/runtime-main.e6e80150.js.map",
+    "static/css/2.31ba96b9.chunk.css": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/css/2.31ba96b9.chunk.css",
+    "static/js/2.48aec97e.chunk.js": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/js/2.48aec97e.chunk.js",
+    "static/js/2.48aec97e.chunk.js.map": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/js/2.48aec97e.chunk.js.map",
+    "index.html": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/index.html",
+    "static/css/2.31ba96b9.chunk.css.map": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/css/2.31ba96b9.chunk.css.map",
+    "static/css/main.6079a06b.chunk.css.map": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/css/main.6079a06b.chunk.css.map",
+    "static/js/2.48aec97e.chunk.js.LICENSE.txt": "/%3Chttps://hkc1673.github.io/userlist-with-react-redux/%3E/static/js/2.48aec97e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6e80150.js",
+    "static/css/2.31ba96b9.chunk.css",
+    "static/js/2.48aec97e.chunk.js",
+    "static/css/main.6079a06b.chunk.css",
+    "static/js/main.0abf03f3.chunk.js"
+  ]
+}
