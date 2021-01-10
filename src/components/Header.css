@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #1890FF;
+}
+.icons-list {
+    display: flex;
+    align-items: center;
+}
+.icons-list > span {
+    font-size: 16px;
+    color: white;
+    font-weight: 800;
+    padding-left: 5px;
+    
+}
+
+.header-title > span{
+    font-size: 32px;
+    color: white;
+    font-weight: 800;
+}
