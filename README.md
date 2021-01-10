@@ -11,8 +11,8 @@ For review or using projects;
 
 Download projects
 
-install dependencies with yarn install
+install dependencies with 
+## yarn install
 
-and for running project,
-
-yarn start 
+and run project with 
+## yarn start 
