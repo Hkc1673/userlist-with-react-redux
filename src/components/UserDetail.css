@@ -1,0 +1,44 @@
+.userdetails {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+
+}
+.navbar-item {
+    position: absolute;
+    top: 70px;
+    left: 50px;
+    background-color: rgba(24,144,255,0.25);
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 800;
+}
+.userdetails-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+   
+}
+.userdetails-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: -20px;
+    padding: 30px;
+    box-shadow: 0 4px 4px 1px rgba(24,144,255,0.25);
+}
+.userdetails-container {
+    box-shadow: 0 4px 4px 1px rgba(24,144,255,0.25);
+}
+.navbar-item:hover {
+    cursor: pointer;
+    background-color: #1890FF;
+}
